@@ -57,7 +57,6 @@ higher_parking_proportion= rate_10025>rate
 higher_parking_proportion
 
 
-# In[ ]:
 
 
 
