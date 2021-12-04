@@ -9,8 +9,8 @@ Group 36 Section 001
 ## code explanation
 ### Top10.ipynb
 (1) Return the top 10 causes of calls with zip code as 10025<br>
-(2) Calculate the number of total incidents of each of these 10 types in 2020.
-(3) Rank and return them as pandas.series in descending order by number of incidents.
+(2) Calculate the number of total incidents of each of these 10 types in 2020<br>
+(3) Rank and return them as pandas.series in descending order by number of incidents<br>
 
 ### Parking.ipynb
 (1) Calculate the rate of illegal parking with zip code as 10025<br>
